@@ -15,10 +15,12 @@ new repo
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sriii1416/LeetCode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Sriii1416/LeetCode/tree/master/0520-detect-capital) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Sriii1416/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Sriii1416/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |

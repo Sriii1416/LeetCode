@@ -14,6 +14,7 @@ new repo
 | [0345-reverse-vowels-of-a-string](https://github.com/Sriii1416/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sriii1416/LeetCode/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Sriii1416/LeetCode/tree/master/0520-detect-capital) |
 ## Hash Table
 |  |
 | ------- |

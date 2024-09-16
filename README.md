@@ -16,6 +16,7 @@ new repo
 | [0392-is-subsequence](https://github.com/Sriii1416/LeetCode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Sriii1416/LeetCode/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/Sriii1416/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0851-goat-latin](https://github.com/Sriii1416/LeetCode/tree/master/0851-goat-latin) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sriii1416/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Hash Table
 |  |

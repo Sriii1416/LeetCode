@@ -18,6 +18,7 @@ new repo
 | [0782-jewels-and-stones](https://github.com/Sriii1416/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/Sriii1416/LeetCode/tree/master/0851-goat-latin) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sriii1416/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1472-increasing-decreasing-string](https://github.com/Sriii1416/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sriii1416/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ new repo
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Sriii1416/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sriii1416/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1472-increasing-decreasing-string](https://github.com/Sriii1416/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sriii1416/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
@@ -42,4 +44,8 @@ new repo
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sriii1416/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Counting
+|  |
+| ------- |
+| [1472-increasing-decreasing-string](https://github.com/Sriii1416/LeetCode/tree/master/1472-increasing-decreasing-string) |
 <!---LeetCode Topics End-->

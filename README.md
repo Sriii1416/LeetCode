@@ -19,6 +19,7 @@ new repo
 | [0851-goat-latin](https://github.com/Sriii1416/LeetCode/tree/master/0851-goat-latin) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sriii1416/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1472-increasing-decreasing-string](https://github.com/Sriii1416/LeetCode/tree/master/1472-increasing-decreasing-string) |
+| [3194-find-words-containing-character](https://github.com/Sriii1416/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sriii1416/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Hash Table
 |  |
@@ -48,4 +49,8 @@ new repo
 |  |
 | ------- |
 | [1472-increasing-decreasing-string](https://github.com/Sriii1416/LeetCode/tree/master/1472-increasing-decreasing-string) |
+## Array
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Sriii1416/LeetCode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ new repo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sriii1416/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -53,4 +54,12 @@ new repo
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/Sriii1416/LeetCode/tree/master/3194-find-words-containing-character) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sriii1416/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sriii1416/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

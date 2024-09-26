@@ -24,6 +24,7 @@ new repo
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sriii1416/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Sriii1416/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sriii1416/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -33,10 +34,12 @@ new repo
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sriii1416/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sriii1416/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sriii1416/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
@@ -53,15 +56,21 @@ new repo
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sriii1416/LeetCode/tree/master/0268-missing-number) |
 | [3194-find-words-containing-character](https://github.com/Sriii1416/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sriii1416/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sriii1416/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sriii1416/LeetCode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sriii1416/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sriii1416/LeetCode/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sriii1416/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

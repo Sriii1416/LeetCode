@@ -10,7 +10,6 @@ class Solution {
         while(i < s.length()){
             if(c == 0){
                 f = 1;
-
             }else if(c == numRows){
                 f = 0;
             }
@@ -18,7 +17,7 @@ class Solution {
             if(f == 1){
                 str[c++] += s.charAt(i);
                 i++;
-            }else if(f == 0){
+            }else{
                 --c;
                 if(c > 1){
                     str[c-1] += s.charAt(i);

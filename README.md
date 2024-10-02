@@ -12,6 +12,7 @@ new repo
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Sriii1416/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0227-basic-calculator-ii](https://github.com/Sriii1416/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sriii1416/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sriii1416/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sriii1416/LeetCode/tree/master/0392-is-subsequence) |
@@ -62,6 +63,7 @@ new repo
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Sriii1416/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Sriii1416/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sriii1416/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sriii1416/LeetCode/tree/master/0326-power-of-three) |
@@ -74,4 +76,8 @@ new repo
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sriii1416/LeetCode/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/Sriii1416/LeetCode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
